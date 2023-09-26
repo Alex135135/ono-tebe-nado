@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
 }
-body { 
+body {
   margin: 0;
   padding: 0;
 }
@@ -69,11 +69,11 @@ margin-left: 10px;
   align-content: start;
 }
  
-.header__logo { 
+.header__logo {
   height: 104.65px;
   max-width: 147px;
   width: calc((1340px - 147px)/2);
-  flex-shrink:0; 
+  flex-shrink: 0; 
   justify-content: center;
 }
 
@@ -101,7 +101,7 @@ margin-left: 10px;
   text-align: center; 
   color: white;
   z-index: 2;
-  margin:0 0 137px 0;
+  margin: 0 0 137px 0;
 }
   
 .overlay {

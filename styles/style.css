@@ -18,15 +18,15 @@ header {
   align-items: center;
   font-size: 18px;
   font-weight: 400;
-  width: calc(1440px - 30px);
+  width: calc(1440px - 100px);
   height: 104px;
-  margin: 60px 51px 55px 50px;
+  margin: 60px 80px 55px 20px;
   max-width: 1340px;
 }
 
 .header__menu {
   display: flex;
-  width: calc(1410px - 1020px);
+  width: calc(1410px - 950px);
   color: black;
 }
 
@@ -57,7 +57,7 @@ margin-left: 5px;
   display: flex;
   font-style: normal;
   font-family: Raleway;
-  width: calc(1410px - 1170px);
+  width: calc(1410px - 1098px);
   font-size: 18px;
   font-weight: 400;
   line-height: 135%;
@@ -207,8 +207,8 @@ button {
   width: 1340px;
   flex-shrink: 0;
   margin-top: 180px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 20px;
+  margin-right: 80px;
   margin-bottom: 181px;
   display: flex;
   flex-direction: column;

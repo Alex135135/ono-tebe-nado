@@ -367,7 +367,7 @@ button {
 }
 
 .footer {
-  margin: 89px 50px 230px 50px;
+  margin: 50px 50px 90px 50px;
   display: flex;
   justify-content: space-between;
   flex-direction: row;

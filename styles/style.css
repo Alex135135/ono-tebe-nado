@@ -378,7 +378,7 @@ button {
   max-width: 1340px;
  }
  
-.footer__address{
+.footer__address {
   display: flex;
   font-style: normal;
   font-family: Raleway;
@@ -389,7 +389,7 @@ button {
   flex-shrink: 0;
   justify-content: space-between;
   align-items: flex-start;
-  flex-direction: column;  
+  flex-direction: column;
 }
 
 .footer__menu {

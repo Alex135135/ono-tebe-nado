@@ -12,7 +12,7 @@ p, ul {
   }
 
 header {
-  padding: 92px 49px 92px 51px;
+  padding: 92px 49px 96px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -27,6 +27,7 @@ header {
 .header__menu {
   display: flex;
   width: calc(1340px - 951px);
+  color: black;
 }
 
 .header__link_active {
@@ -389,6 +390,7 @@ button {
   align-items: center;
   flex-direction: column;
   text-align: center;
+  color: black;
 }
 
 .footer__menu-link_active {

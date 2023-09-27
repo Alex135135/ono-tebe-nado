@@ -20,7 +20,7 @@ header {
   font-weight: 400;
   width: calc(1440px - 100px);
   height: 104px;
-  margin: 55px 51px 50px 50px;
+  margin: 55px 51px 55px 50px;
   max-width: 1340px;
 }
 
@@ -41,15 +41,15 @@ header {
 
 .header__links-list {
 display: flex;
-gap: 17px;
+gap: 15px;
 justify-content: space-between;
 align-items: center;
 }
 
 .header__links-list-iteam {
 list-style: circle;
-margin-right: 10px;
-margin-left: 10px;
+margin-right: 5px;
+margin-left: 5px;
 }
 
 .address {

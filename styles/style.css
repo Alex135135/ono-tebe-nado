@@ -45,7 +45,6 @@ header {
   font-size: 18px;
   font-weight: 400;
   line-height: 135%;
-  flex-shrink: 0;
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;
@@ -59,7 +58,6 @@ header {
 .header__logo {
   height: 104.65px;
   max-width: 147px;
-  flex-shrink: 0;
   justify-content: center;
   margin: 0 281px 20px 0;
 }
@@ -188,7 +186,6 @@ button {
 
 .lots {
   max-width: 1340px;
-  flex-shrink: 0;
   margin-top: 180px;
   margin-left: 20px;
   margin-right: 80px;
@@ -353,7 +350,7 @@ button {
 }
 
 .footer {
-  margin: 10px 50px 130px 50px;
+  margin: 89px 50px 90px 50px;
   display: flex;
   justify-content: space-between;
   flex-direction: row;
@@ -371,7 +368,6 @@ button {
   font-size: 18px;
   font-weight: 400;
   line-height: 135%;
-  flex-shrink: 0;
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;

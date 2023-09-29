@@ -37,11 +37,6 @@ header {
   margin-left: 5px;
 }
 
-.header__link_active {
-  text-decoration: none;
-  list-style: none;
-}
-
 .address {
   display: flex;
   font-style: normal;
@@ -78,7 +73,7 @@ header {
   max-width: 1440px;
   max-height: 757px;
   z-index: 0;
-  padding: 165px 50px 237px 50px;
+  padding: 100px 50px 237px 50px;
 }
     
 .cover__title {
@@ -402,7 +397,6 @@ button {
 
 .footer__menu-link_active {
   text-decoration: none;
-  list-style: none;
 }
   
 .footer__social-link {

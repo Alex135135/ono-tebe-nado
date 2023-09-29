@@ -55,7 +55,7 @@ margin-left: 5px;
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;
-  margin: 0 0 0 100px;
+  margin: 0 0 0 80px;
 }
 
 .header__address {
@@ -65,7 +65,6 @@ margin-left: 5px;
 .header__logo {
   height: 104.65px;
   max-width: 147px;
-  width: calc((1340px - 147px)/2);
   flex-shrink: 0;
   justify-content: center;
   margin: 0 281px 281px 0;

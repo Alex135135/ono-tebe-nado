@@ -17,7 +17,7 @@ header {
   display: flex;
   max-width: calc(1340px - 952px);
   color: black;
-  margin: 0 281px 0 0;
+  margin: 0 250px 0 0;
 }
 
 .header__link_active {

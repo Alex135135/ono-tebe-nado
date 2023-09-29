@@ -9,7 +9,6 @@ header {
   font-size: 18px;
   font-weight: 400;
   max-width: 1340;
-  height: 104px;
   margin: 60px 20px 55px 20px;
 }
 
@@ -20,27 +19,22 @@ header {
   margin: 0 281px 0 0;
 }
 
-.header__link_active {
-  text-decoration: none;
-  list-style: none;
-}
-
 .header__links-list-item_no-bullit {
   list-style: none;
 }
 
 .header__links-list {
-display: flex;
-gap: 17px;
-justify-content: space-between;
-align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: flex-start;
 
 }
 
 .header__links-list-iteam {
-list-style: circle;
-margin-right: 5px;
-margin-left: 5px;
+  list-style: circle;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 .address {
@@ -130,10 +124,10 @@ margin-left: 5px;
 }
   
 .aligned-text_right {
-    text-align: right;
-    color: white;
-    justify-content: end;
-    z-index: 2;
+  text-align: right;
+  color: white;
+  justify-content: end;
+  z-index: 2;
 }
   
 .letter-spacing-extented {
@@ -224,49 +218,49 @@ button {
 }
 
 .card-link {
- text-decoration: none;
+  text-decoration: none;
 }
 
 .card {
- display: flex;
- flex-direction: column;
- justify-content: space-between;
- max-width: 430px;
- min-height: 450px;
- max-height: 100%;
- padding: 50px 40px 50px 40px;
- text-decoration: none;
- background-size: cover;
- background-position: center;
- position: relative;
- z-index: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 430px;
+  min-height: 450px;
+  max-height: 100%;
+  padding: 50px 40px 50px 40px;
+  text-decoration: none;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  z-index: 0;
 }
 
 .card__title {
- font-size: 22px;
- font-style: normal;
- font-weight: 700;
- line-height: 1.2;
- text-decoration-line: underline;
- text-transform: uppercase;
- position: relative;
- z-index: 2;
- color: white;
- font-family: "Raleway", "Arial", serif;
- word-wrap: break-word;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.2;
+  text-decoration-line: underline;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 2;
+  color: white;
+  font-family: "Raleway", "Arial", serif;
+  word-wrap: break-word;
 }
 
 .card__text {
- font-size: 20px;
- font-style: normal;
- font-weight: 400;
- line-height: 1.2;
- text-decoration: none;
- position: relative;
- z-index: 2;
- color: white;
- font-family: "Raleway", "Arial", serif;
- word-wrap: break-word;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.2;
+  text-decoration: none;
+  position: relative;
+  z-index: 2;
+  color: white;
+  font-family: "Raleway", "Arial", serif;
+  word-wrap: break-word;
 }
 
 .card_type_film {
@@ -393,11 +387,6 @@ button {
   flex-direction: column;
   text-align: center;
   color: black;
-}
-
-.footer__menu-link_active {
-  text-decoration: none;
-  list-style: none;
 }
 
 .footer__menu-list-item {

@@ -31,7 +31,7 @@ header {
 
 .header__links-list {
 display: flex;
-gap: 15px;
+gap: 10px;
 justify-content: space-between;
 align-items: flex-start;
 
@@ -55,7 +55,7 @@ margin-left: 5px;
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;
-  margin: 0 0 0 80px;
+  margin: 0 0 0 70px;
 }
 
 .header__address {
@@ -67,7 +67,6 @@ margin-left: 5px;
   max-width: 147px;
   flex-shrink: 0;
   justify-content: center;
-  margin: 0 281px 281px 0;
 }
 
 .cover {

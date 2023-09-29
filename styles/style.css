@@ -11,13 +11,13 @@ header {
   max-width: calc(1440px - 100px);
   height: 104px;
   margin: 60px 20px 55px 20px;
-  max-width: 1340px;
 }
 
 .header__menu {
   display: flex;
-  max-width: calc(1340px - 950px);
+  max-width: calc(1340px - 952px);
   color: black;
+  margin: 0 281px 0 0;
 }
 
 .header__link_active {
@@ -55,6 +55,7 @@ margin-left: 5px;
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;
+  margin: 0 0 0 281px;
 }
 
 .header__address {

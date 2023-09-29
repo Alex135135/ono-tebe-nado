@@ -2,12 +2,13 @@ body {
 }
 
 header {
+  padding: 92px 49px 86px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 18px;
   font-weight: 400;
-  max-width: calc(1440px-100px);
+  max-width: 1340;
   height: 104px;
   margin: 60px 20px 55px 20px;
 }

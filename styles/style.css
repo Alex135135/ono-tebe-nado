@@ -39,6 +39,7 @@ header {
 
 .header__link_active {
   text-decoration: none;
+  list-style: none;
 }
 
 .address {
@@ -401,6 +402,7 @@ button {
 
 .footer__menu-link_active {
   text-decoration: none;
+  list-style: none;
 }
   
 .footer__social-link {

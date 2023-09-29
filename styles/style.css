@@ -252,6 +252,7 @@ button {
  z-index: 2;
  color: white;
  font-family: "Raleway", "Arial", serif;
+ word-wrap: break-word;
 }
 
 .card__text {
@@ -264,6 +265,7 @@ button {
  z-index: 2;
  color: white;
  font-family: "Raleway", "Arial", serif;
+ word-wrap: break-word;
 }
 
 .card_type_film {
@@ -348,6 +350,7 @@ button {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  word-wrap: break-word;
 }
 
 .about__text p:first-child {

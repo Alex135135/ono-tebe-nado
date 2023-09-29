@@ -16,7 +16,7 @@ header {
 
 .header__menu {
   display: flex;
-  max-width: calc(1300px - 950px);
+  max-width: calc(1270px - 950px);
   color: black;
 }
 
@@ -47,7 +47,7 @@ margin-left: 5px;
   display: flex;
   font-style: normal;
   font-family: Raleway;
-  max-width: calc(1340px - 1098px);
+  max-width: calc(1270px - 1098px);
   font-size: 18px;
   font-weight: 400;
   line-height: 135%;

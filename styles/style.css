@@ -16,7 +16,7 @@ header {
 
 .header__menu {
   display: flex;
-  max-width: calc(1340px - 952px);
+  max-width: calc(1340px - 950px);
   color: black;
 }
 
@@ -67,7 +67,7 @@ margin-left: 5px;
   width: calc((1340px - 147px)/2);
   flex-shrink: 0;
   justify-content: center;
-  margin: 0 523px 669px 0;
+  margin: 0 281px 281px 0;
 }
 
 .cover {

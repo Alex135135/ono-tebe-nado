@@ -125,19 +125,15 @@ header {
 }
   
 .letter-spacing-extented {
-  letter-spacing: 10px;
+  letter-spacing: 0.3em;
 }
   
 .letter-spacing {
-  margin-left: 35px;
-}
-
-.letter-spacing1 {
-  margin-left: 35px;
+  letter-spacing: 0.6em;
 }
 
 .no-letter-spacing {
-  letter-spacing: 30px;
+  letter-spacing: initial;
 }
   
 .cover__description {

@@ -150,18 +150,15 @@ header {
   font-family: "Raleway", "Arial", sans-serif;
   justify-content: space-between;
   text-transform: uppercase;
-  width: calc((1440px-663px)/2);
-  max-height: 28px;
+  max-width: 633px;
   line-height: 28px;
-  font-weight: lighter;
+  font-weight: 400;
   z-index: 2;
-  word-spacing: 15px;
 }
 
 button {
   max-width: 257px;
   max-height: 52px;
-  justify-content: space-between;
   background-color: rgba(0, 50, 50, 0.1);
   align-self: end;
   z-index: 2;

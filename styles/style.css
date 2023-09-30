@@ -48,11 +48,11 @@ header {
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;
-  margin: 0 0 0 75px;
 }
 
 .header__address {
   align-content: start;
+  margin: 0 0 0 75px;
 }
  
 .header__logo {
@@ -271,13 +271,13 @@ button {
 
 .about {
   padding: 0 50px 180px 50px;
-  max-width: calc(1440px-100px);
+  max-width: calc(1440px - 100px);
   margin: 0;
 }
 
 .about__column {
   display: grid;
-  grid-template-columns: 388px 885px;
+  grid-template-columns: 455px 885px;
   grid-template-rows: repeat(2, auto);
   column-gap: 25px;
 }
@@ -329,24 +329,19 @@ button {
 }
 
 .footer {
-  margin: 89px 50px 90px 50px;
+  margin: 180px 50px 90px 50px;
   display: flex;
   justify-content: space-between;
   flex-direction: row;
   font-size: 18px;
   font-weight: 400;
-  max-height: 97px;
   max-width: 1340px;
  }
  
 .footer__address {
   display: flex;
-  font-style: normal;
   font-family: "Raleway", "Arial", sans-serif;
-  width: calc(1340px - 1098px);
-  font-size: 18px;
-  font-weight: 400;
-  line-height: 135%;
+  max-width: calc(1340px - 1098px);
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;

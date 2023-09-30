@@ -23,18 +23,22 @@ header {
   list-style: none;
 }
 
+.header__links_active {
+  text-decoration:none
+}
+
 .header__links-list {
   display: flex;
   gap: 20px;
   justify-content: space-between;
   align-items: flex-start;
-
 }
 
 .header__links-list-iteam {
   list-style: circle;
   margin-right: 5px;
   margin-left: 5px;
+  
 }
 
 .address {

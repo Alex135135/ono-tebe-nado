@@ -349,9 +349,8 @@ button {
 
 .footer__menu {
   display: flex;
-  height: 69.65px;
   max-width: 149px;
-  width: calc((1340px - 149px)/2);
+  max-width: calc((1340px - 149px)/2);
   justify-content: center;
   align-items: center;
   flex-direction: column;
@@ -370,7 +369,6 @@ button {
 }
   
 .footer__social-link {
-  min-height: 48px;
   display: flex;
   justify-content: space-between;
   align-items: center;

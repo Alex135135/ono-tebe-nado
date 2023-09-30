@@ -40,7 +40,7 @@ header {
 .address {
   display: flex;
   font-style: normal;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   max-width: calc(1340px - 1098px);
   font-size: 18px;
   font-weight: 400;
@@ -79,7 +79,7 @@ header {
   gap: 10px;
   font-size: 100px;
   font-weight: 700;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   letter-spacing: 30px;
   text-transform: uppercase;
   text-align: center;
@@ -147,7 +147,7 @@ header {
   display: flex;
   font-size: 22px;
   color: white;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   justify-content: space-between;
   text-transform: uppercase;
   width: calc((1440px-663px)/2);
@@ -171,7 +171,7 @@ button {
 .bet-button {
   color: white;
   font-size: 22px;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   z-index: 2;
   font-weight: lighter;
 }
@@ -248,7 +248,7 @@ button {
   position: relative;
   z-index: 2;
   color: white;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   word-wrap: break-word;
 }
 
@@ -329,7 +329,7 @@ button {
   grid-row: 2/3;
   grid-column: 2/3;
   color: #000;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -355,7 +355,7 @@ button {
 .footer__address {
   display: flex;
   font-style: normal;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   width: calc(1340px - 1098px);
   font-size: 18px;
   font-weight: 400;

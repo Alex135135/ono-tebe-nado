@@ -188,6 +188,8 @@ button {
   display: flex;
   flex-direction: row;
   position: relative;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .lots_heading {

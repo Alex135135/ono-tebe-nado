@@ -2,7 +2,7 @@ body {
 }
 
 header {
-  padding: 92px 49px 92px 51px;
+  padding: 92px 49px 82px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -331,7 +331,7 @@ button {
 }
 
 .footer {
-  margin: 180px 50px 90px 50px;
+  margin: 0px 50px 90px 50px;
   display: flex;
   justify-content: space-between;
   flex-direction: row;

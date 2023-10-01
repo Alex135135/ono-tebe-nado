@@ -203,7 +203,7 @@ button {
   color: #fff;
   gap: 23px;
   flex-wrap: wrap;
-  flex-grow: 1;
+  flex-grow: 2;
   width: 100%;
   min-height: 100%;
   

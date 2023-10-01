@@ -2,7 +2,7 @@ body {
 }
 
 header {
-  padding: 92px 49px 82px 51px;
+  padding: 92px 49px 77px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -272,7 +272,7 @@ button {
 }
 
 .about {
-  padding: 0 50px 180px 50px;
+  padding: 0 50px 0px 50px;
   max-width: calc(1440px - 100px);
   margin: 0;
 }

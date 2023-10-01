@@ -28,9 +28,8 @@ header {
 
 .header__links-list {
   display: flex;
-  gap: 17px;
+  gap: 13px;
   justify-content: space-between;
-  align-items: flex-stretch;
 }
 
 .header__links-list-iteam {
@@ -113,7 +112,7 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 12px;
+  letter-spacing: 13px;
 }
   
 .aligned-text_right {
@@ -122,7 +121,7 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 12px;
+  letter-spacing: 13px;
 }
   
 .letter-spacing-extented {

@@ -1,6 +1,3 @@
-body {
-}
-
 header {
   padding: 92px 49px 77px 51px;
   display: flex;
@@ -103,7 +100,7 @@ header {
   justify-content: start;
   z-index: 2;
   line-height: 115%;
-  letter-spacing: 30px;  
+  letter-spacing: 30px;
 }
   
 .aligned-text_center {
@@ -155,7 +152,7 @@ header {
   font-weight: 400;
   z-index: 2;
   word-spacing: 17px;
-  margin: 12px 0 0 0; 
+  margin: 12px 0 0 0;
 }
 
 button {

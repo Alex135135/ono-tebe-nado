@@ -23,7 +23,7 @@ header {
 }
 
 .header__links_active {
-  text-decoration:none
+  text-transform: uppercase;
 }
 
 .header__links-list {
@@ -118,6 +118,7 @@ header {
   
 .aligned-text_right {
   justify-content: end;
+  text-align: right;
   color: white;
   z-index: 2;
   line-height: 100%;
@@ -174,6 +175,7 @@ button {
   font-family: "Raleway", "Arial", sans-serif;
   z-index: 2;
   font-weight: 400;
+  margin: 0 0 62px 0; 
 }
 
 .lots {

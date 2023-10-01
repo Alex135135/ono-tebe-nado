@@ -118,11 +118,11 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 10px;
+  letter-spacing: 5px;
 }
   
 .letter-spacing-extented {
-  letter-spacing: 0.3em;
+  letter-spacing: 0.4em;
 }
   
 .letter-spacing {

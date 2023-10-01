@@ -187,8 +187,6 @@ button {
   margin-bottom: 181px;
   display: flex;
   flex-direction: column;
-  padding-left: 25px;
-  padding-right: 25px;
 }
 
 .lots_heading {

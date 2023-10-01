@@ -186,7 +186,7 @@ button {
   margin-right: 50px;
   margin-bottom: 181px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   position: relative;
 }
 

@@ -110,6 +110,7 @@ header {
   z-index: 2;
   line-height: 100%;
   letter-spacing: 35px;
+  margin-right: 60px;
 }
   
 .aligned-text_right {

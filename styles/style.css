@@ -30,7 +30,7 @@ header {
   display: flex;
   gap: 17px;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: flex-stretch;
 }
 
 .header__links-list-iteam {
@@ -113,7 +113,7 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 10px;
+  letter-spacing: 12px;
 }
   
 .aligned-text_right {
@@ -122,7 +122,7 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 10px;
+  letter-spacing: 12px;
 }
   
 .letter-spacing-extented {
@@ -156,6 +156,7 @@ header {
   font-weight: 400;
   z-index: 2;
   word-spacing: 17px;
+  margin: 12px 0 0 0; 
 }
 
 button {

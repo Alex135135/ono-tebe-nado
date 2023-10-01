@@ -188,8 +188,6 @@ button {
   display: flex;
   flex-direction: column;
   position: relative;
-  padding-left: 25px;
-  padding-right: 25px;
 }
 
 .lots_heading {
@@ -201,9 +199,9 @@ button {
 .lots__card-list {
   display: flex;
   color: #fff;
-  gap: 23px;
+  gap: 25px;
   flex-wrap: wrap;
-  flex-grow: 2;
+  flex-grow: 1;
   width: 100%;
   min-height: 100%;
   

@@ -79,7 +79,7 @@ header {
 .cover__title {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
   font-size: 100px;
   font-weight: 700;
   font-family: "Raleway", "Arial", sans-serif;

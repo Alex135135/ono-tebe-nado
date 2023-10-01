@@ -24,6 +24,7 @@ header {
 
 .header__links_active {
   text-decoration: none;
+  margin: 0 4px 0 0;
 }
 
 .header__links-list {
@@ -35,7 +36,6 @@ header {
 .header__links-list-iteam {
   list-style: circle;
   margin-right: 4px;
-  margin-left: 4px;
 }
 
 .address {
@@ -112,7 +112,7 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 13px;
+  letter-spacing: 14px;
 }
   
 .aligned-text_right {
@@ -121,7 +121,7 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 13px;
+  letter-spacing: 14px;
 }
   
 .letter-spacing-extented {

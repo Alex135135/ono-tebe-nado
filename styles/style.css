@@ -109,7 +109,7 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 50px;
+  letter-spacing: 40px;
   margin-right: 60px;
 }
   
@@ -123,7 +123,7 @@ header {
 }
   
 .letter-spacing-extented {
-  letter-spacing: 0.6em;
+  letter-spacing: 0.3em;
 }
   
 .letter-spacing {

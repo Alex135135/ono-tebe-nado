@@ -105,7 +105,6 @@ header {
   
 .aligned-text_center {
   display: flex;
-  max-width: 1280px;
   justify-content: center;
   color: white;
   z-index: 2;

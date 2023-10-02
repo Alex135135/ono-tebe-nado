@@ -371,7 +371,7 @@ button {
   align-items: center;
   flex-direction: row;
   max-width: calc(1340px - 1100px);
-  gap: 18px;
+  gap: 48px;
 }
 
 .footer__social-list-item {

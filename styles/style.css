@@ -207,7 +207,7 @@ button {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  max-width: 430px;
+  max-width: 100%;
   min-height: 450px;
   max-height: 100%;
   padding: 50px 40px 50px 40px;
@@ -228,7 +228,7 @@ button {
   position: relative;
   z-index: 2;
   color: white;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   word-wrap: break-word;
 }
 
@@ -272,7 +272,7 @@ button {
 
 .about__column {
   display: grid;
-  grid-template-columns: 430px 885px;
+  grid-template-columns: 1fr 885px;
   grid-template-rows: repeat(2, auto);
   column-gap: 25px;
 }
@@ -297,7 +297,7 @@ button {
   grid-row: 1/2;
   grid-column: 2/3;
   color: #000;
-  font-family: "Raleway", "Arial", serif;
+  font-family: "Raleway", "Arial", sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -335,17 +335,12 @@ button {
  
 .footer__address {
   display: flex;
-  font-family: "Raleway", "Arial", sans-serif;
-  max-width: 242px;
-  justify-content: space-between;
-  align-items: flex-start;
-  flex-direction: column;
 }
 
 .footer__menu {
   display: flex;
   max-width: 149px;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   flex-direction: column;
   text-align: center;

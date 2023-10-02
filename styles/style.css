@@ -1,3 +1,7 @@
+* {
+  outline: 1px solid red;
+}
+
 header {
   padding: 92px 49px 75px 51px;
   display: flex;

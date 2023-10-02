@@ -39,7 +39,7 @@ header {
   display: flex;
   font-style: normal;
   font-family: "Raleway", "Arial", sans-serif;
-  max-width: calc(1340px - 1098px);
+  max-width: 242px;
   font-size: 18px;
   font-weight: 400;
   line-height: 135%;

@@ -6,7 +6,6 @@ header {
   font-size: 18px;
   font-weight: 400;
   max-width: 1340;
-  overflow: hidden;
 }
 
 .header__menu {
@@ -181,8 +180,6 @@ button {
   margin-bottom: 181px;
   display: flex;
   flex-direction: column;
-  position: relative;
-  overflow: hidden;
 }
 
 .lots_heading {
@@ -271,7 +268,6 @@ button {
   padding: 0 50px 180px 50px;
   max-width: calc(1440px - 100px);
   margin: 0;
-  overflow: hidden;
 }
 
 .about__column {

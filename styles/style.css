@@ -119,15 +119,15 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 3px;
+  letter-spacing: 30px;
 }
   
 .letter-spacing-extented {
-  letter-spacing: 0.3em;
+  letter-spacing: 60px;
 }
   
 .letter-spacing {
-  letter-spacing: 0.6em;
+  letter-spacing: 30px;
 }
 
 .no-letter-spacing {

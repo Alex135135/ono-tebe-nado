@@ -370,7 +370,7 @@ button {
   justify-content: space-between;
   align-items: center;
   flex-direction: row;
-  width: calc(1340px - 1100px);
+  max-width: 240px;
   gap: 18px;
 }
 

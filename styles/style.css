@@ -273,6 +273,7 @@ button {
   grid-template-columns: 430px 1fr;
   grid-template-rows: repeat(2, auto);
   column-gap: 25px;
+  flex-wrap: nowrap;
 }
 
 .about__logo {
@@ -315,7 +316,6 @@ button {
   font-weight: 400;
   line-height: normal;
   word-wrap: break-word;
-  flex-wrap: wrap;
 }
 
 .about__text p:first-child {

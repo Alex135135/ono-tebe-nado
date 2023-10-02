@@ -315,7 +315,7 @@ button {
   font-weight: 400;
   line-height: normal;
   word-wrap: break-word;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .about__text p:first-child {

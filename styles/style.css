@@ -100,7 +100,7 @@ header {
   justify-content: start;
   z-index: 2;
   line-height: 115%;
-  letter-spacing: 60px;
+  letter-spacing: 30px;
   }
   
 .aligned-text_center {
@@ -109,7 +109,7 @@ header {
   color: white;
   z-index: 2;
   line-height: 100%;
-  letter-spacing: 60px;
+  letter-spacing: 30px;
   margin-right: 60px;
 }
   
@@ -118,16 +118,16 @@ header {
   text-align: right;
   color: white;
   z-index: 2;
-  letter-spacing: 60px;
+  letter-spacing: 30px;
   line-height: 100%;
 }
   
 .letter-spacing-extented {
-  letter-spacing: 60px;
+  letter-spacing: 0.3em;
 }
   
 .letter-spacing {
-  letter-spacing: 30px;
+  letter-spacing: 0.6em;
 }
 
 .no-letter-spacing {

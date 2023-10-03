@@ -5,7 +5,6 @@ header {
   align-items: center;
   font-size: 18px;
   font-weight: 400;
-  max-width: 1340px;
 }
 
 .header__menu {
@@ -82,7 +81,7 @@ header {
   text-align: center;
   color: white;
   margin: 0 0 135px 0;
-  letter-spacing: 60px;
+  letter-spacing: 30px;
 }
   
 .overlay {

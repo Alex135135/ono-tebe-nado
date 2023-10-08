@@ -16,6 +16,7 @@ header {
 
 .header__links-list-item_no-bullit {
   list-style: none;
+  text-decoration: none;
 }
 
 .header__links_active {
@@ -53,8 +54,9 @@ header {
 }
  
 .header__logo {
-  height: 104.65px;
-  max-width: 147px;
+  flex:0 0 auto;
+  width:148px;
+  height:105px;
   justify-content: center;
   margin: 0 355px 20px 0;
 }
@@ -103,17 +105,14 @@ header {
 }
   
 .aligned-text_center {
-  display: flex;
   justify-content: center;
   line-height: 100%;
-  z-index: 2;
 }
   
 .aligned-text_right {
   justify-content: end;
   text-align: right;
   line-height: 100%;
-  z-index: 2;
 }
   
 .letter-spacing {
@@ -386,5 +385,3 @@ button {
   background-size: cover;
   background-position: top;
 }
-
-

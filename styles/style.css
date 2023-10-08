@@ -1,5 +1,5 @@
 header {
-  padding: 90px 49px 77px 51px;
+  padding: 90px 49px 79px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -55,10 +55,11 @@ header {
 
 .header__logo {
   flex:0 0 auto;
-  width:129px;
-  height:104px;
+  width:148px;
+  height:105px;
   justify-content: center;
   margin: 0 355px 20px 0;
+  padding: 1px 9px 1px 9px;
 }
 
 .cover {

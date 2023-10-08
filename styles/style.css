@@ -39,13 +39,18 @@ header {
   display: flex;
   font-style: normal;
   font-family: "Raleway", "Arial", sans-serif;
-  min-width: 240px;
+  max-width: 240px;
   font-size: 18px;
   font-weight: 400;
   line-height: 135%;
   justify-content: space-between;
   align-items: flex-start;
   flex-direction: column;
+}
+
+.header__address {
+  align-content: start;
+  margin: 0;
 }
 
 .header__logo {
@@ -314,7 +319,7 @@ button {
 }
 
 .footer {
-  margin: 0px 50px 0 50px;
+  margin: 0px 50px 90px 50px;
   display: flex;
   justify-content: space-between;
   flex-direction: row;

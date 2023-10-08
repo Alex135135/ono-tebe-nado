@@ -50,7 +50,7 @@ header {
 
 .header__address {
   align-content: start;
-  margin: 0 0 0 75px;
+  margin: 0;
 }
  
 .header__logo {

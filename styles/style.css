@@ -326,6 +326,7 @@ button {
   font-size: 18px;
   font-weight: 400;
   max-width: 1340px;
+  max-height: 97px;
  }
  
 .footer__menu {

@@ -1,5 +1,5 @@
 header {
-  padding: 92px 49px 82px 51px;
+  padding: 92px 49px 84px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -61,7 +61,7 @@ header {
   height: 100%;
   left: auto;
   top: auto;
-  right: 20px;
+  right: 10px;
   bottom: auto;
   padding: 1px 9px 1px 9px;
 }
@@ -70,7 +70,7 @@ header {
   display: block;
   margin: 0 auto;
   width: 129px;
-  height: 104px;
+  height: 100%;
 }
 
 .cover {

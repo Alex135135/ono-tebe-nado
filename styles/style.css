@@ -61,7 +61,7 @@ header {
   height: 100%;
   left: auto;
   top: auto;
-  right: 155px;
+  right: 20px;
   bottom: auto;
   padding: 1px 9px 1px 9px;
 }
@@ -69,8 +69,8 @@ header {
 .header__logo img {
   display: block;
   margin: 0 auto;
-  width: 148px;
-  height: 100%;
+  width: 129px;
+  height: 104px;
 }
 
 .cover {

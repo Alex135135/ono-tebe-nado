@@ -1,11 +1,12 @@
 header {
-  padding: 90px 49px 77px 51px;
+  margin: 90px 49px 77px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 18px;
   font-weight: 400;
   margin: 0 0 20px 0;
+  position: relative;
 }
 
 .header__menu {

@@ -1,5 +1,5 @@
 header {
-  padding: 90px 49px 79px 51px;
+  padding: 90px 49px 77px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -33,6 +33,7 @@ header {
 .header__links-list-iteam {
   list-style: circle;
   margin-right: 4px;
+  margin-left: 13px;
 }
 
 .address {

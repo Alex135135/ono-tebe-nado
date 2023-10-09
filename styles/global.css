@@ -9,9 +9,6 @@ body {
   max-width: 1440px;
   margin: auto;
   font-family: Raleway, sans-serif;
-
-  display: flex;
-  flex-direction: column;
 }
 
 h1,

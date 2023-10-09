@@ -274,7 +274,7 @@ button {
 
 .about__column {
   display: grid;
-  grid-template-columns: 430px 1fr;
+  grid-template-columns: 1fr 885px;
   grid-template-rows: repeat(2, auto);
   column-gap: 25px;
 }

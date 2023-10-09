@@ -17,13 +17,15 @@ header {
 }
 
 .header__links-list-item_no-bullit {
-  list-style: none;
   text-decoration: none;
+}
+
+.header__links-list-item {
+  list-style: circle;
 }
 
 .header__links_active {
   text-decoration: none;
-  margin: 0 4px 0 0;
 }
 
 .header__links-list {
@@ -32,11 +34,6 @@ header {
   gap: 32px;
   position: relative;
   z-index: 2;
-}
-
-.header__links-list-iteam {
-  list-style: circle;
-  margin-right: 4px;
 }
 
 .address {

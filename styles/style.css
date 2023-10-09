@@ -1,11 +1,10 @@
 header {
-  padding: 96px 49px 80px 51px;
+  margin: 96px 49px 93px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 18px;
   font-weight: 400;
-  margin: 0 0 20px 0;
   position: relative;
 }
 

@@ -36,19 +36,17 @@
   text-decoration: none;
 }
 .address {
-  display: flex;
   position: relative;
-  font-family: "Raleway", "Arial", sans-serif;
+  z-index: 2;
+  display: flex; 
   font-style: normal;
   max-width: 242px;
   font-size: 18px;
   line-height: 135%;
-  justify-content: space-between;
-  align-items: flex-start;
+  display: flex;
+  align-items: start;
+  justify-content: center;
   flex-direction: column;
-  align-content: start;
-  margin: 0;
-  z-index: 2;
 }
 
 .header__logo {

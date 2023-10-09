@@ -1,4 +1,4 @@
-header {
+.header {
   margin: 92px 49px 92px 51px;
   display: flex;
   justify-content: space-between;
@@ -6,6 +6,7 @@ header {
   font-size: 18px;
   font-weight: 400;
   position: relative;
+  max-width: 1340px;
 }
 
 .header__menu {

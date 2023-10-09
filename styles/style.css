@@ -13,11 +13,11 @@ header {
   display: flex;
   min-width: 388px;
   color: black;
-  margin:0;
+  margin: 0;
 }
 
 .header__links-list-item_no-bullit {
-  text-decoration: none;
+  list-style: none;
 }
 
 .header__links-list-item {

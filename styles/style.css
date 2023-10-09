@@ -24,10 +24,6 @@ header {
   list-style: none;
 }
 
-.header__links_active {
-  text-decoration: none;
-}
-
 .header__links-list {
   display: flex;
   justify-content: space-between;
@@ -36,6 +32,9 @@ header {
   z-index: 2;
 }
 
+.header__links_active {
+  text-decoration: none;
+}
 .address {
   display: flex;
   position: relative;

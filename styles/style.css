@@ -46,7 +46,7 @@
   max-width: 240px;
   font-size: 18px;
   line-height: 135%;
-  align-items: center;
+  align-items: start;
   justify-content: end;
   flex-direction: column;
   text-align: left;

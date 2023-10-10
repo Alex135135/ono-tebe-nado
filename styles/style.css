@@ -49,10 +49,7 @@
 .header__logo {
   width: 148px;
   height: 105px;
-  left: 548px;
-  top: 92px;
-  right: 744px;
-  bottom: auto;
+  margin: 0 355px 4px 209px;
   padding: 1px 9px 1px 9px;
   z-index: 1;
 }

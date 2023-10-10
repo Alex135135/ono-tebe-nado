@@ -53,14 +53,13 @@
 
 .header__logo {
   display: flex;
-  max-width: 100%;
-  min-width: 148px;
+  max-width: 148px;
   height: 105px;
   padding: 1px 9px 1px 9px;
   z-index: 1;
   justify-content: center;
   margin-left: 15.6%;
-  margin-right: 26.5%;
+  margin-right: 26.34%;
  }
 
 .header__logo img {

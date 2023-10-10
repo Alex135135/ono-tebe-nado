@@ -11,6 +11,7 @@
 
 .header__menu {
   display: flex;
+  max-width: 388px;
   color: black;
   margin-right: auto;
   justify-content: start;
@@ -42,7 +43,7 @@
   z-index: 2;
   display: flex;
   font-style: normal;
-  max-width: 33%;
+  max-width: 240px;
   font-size: 18px;
   line-height: 135%;
   align-items: center;
@@ -52,14 +53,14 @@
 }
 
 .header__logo {
-  diplay: flex;
-  width: 33%;
+  display: flex;
+  width: 148px;
   height: 105px;
-  matgin: 0 100px 0 0;
   padding: 1px 9px 1px 9px;
   z-index: 1;
   justify-content: center;
   align-items: center;
+  margin-right: 355px;
 }
 
 .header__logo img {
@@ -73,6 +74,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  max-width: 743px;
 }
 
 .cover {

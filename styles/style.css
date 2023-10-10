@@ -52,6 +52,10 @@
   text-align: left;
 }
 
+.header__address {
+  margin-left: auto;
+  align-items: end;
+
 .header__logo {
   diplay: flex;
   width: 33%;

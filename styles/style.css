@@ -50,7 +50,10 @@
   position: relative;
   width: 148px;
   height: 105px;
-  margin: 0 355px 4px 207px;
+  left: 209px;
+  right: 355px;
+  top: auto;
+  botoom: auto;
   padding: 1px 9px 1px 9px;
   z-index: 1;
 }

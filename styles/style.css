@@ -47,7 +47,7 @@
 }
 
 .header__logo {
-  position: static;
+  position: fixed;
   width: 148px;
   height: 105px;
   left: auto;

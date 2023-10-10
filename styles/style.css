@@ -6,7 +6,7 @@
   font-size: 18px;
   font-weight: 400;
   max-width: 1340px;
-  flex-direction: row;
+  
 }
 
 .header__menu {
@@ -15,7 +15,6 @@
   color: black;
   justify-content: start;
   align-items: center;
-  flex-direction: row;
   white-space: nowrap;
 }
 
@@ -67,7 +66,6 @@
   margin: 0 auto;
   width: 135px;
 }
-
 
 .cover {
   position: relative;

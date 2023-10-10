@@ -47,7 +47,6 @@
   align-items: start;
   justify-content: start;
   flex-direction: column;
-  margin: 0;
 }
 
 .header__logo {

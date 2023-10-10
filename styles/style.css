@@ -6,7 +6,7 @@
   font-size: 18px;
   font-weight: 400;
   max-width: 1340px;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .header__menu {

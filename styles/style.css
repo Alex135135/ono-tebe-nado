@@ -10,7 +10,7 @@
 
 .header__menu {
   display: flex;
-  min-width: 388px;
+  max-width: 388px;
   color: black;
   margin: 0;
 }
@@ -47,6 +47,7 @@
 }
 
 .header__logo {
+  position: relative;
   width: 148px;
   height: 105px;
   margin: 0 355px 4px 207px;

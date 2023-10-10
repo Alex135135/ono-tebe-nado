@@ -1,18 +1,19 @@
 .header {
   margin: 92px 49px 96px 51px;
   display: flex;
-  justify-content: space-between;
+  justify-content: centr;
   align-items: center;
   font-size: 18px;
   font-weight: 400;
   max-width: 1340px;
+  flex-direction: column;
 }
 
 .header__menu {
   display: flex;
   max-width: 388px;
   color: black;
-  margin: 0;
+  margin-right: auto;
 }
 
 .header__links-list-item {
@@ -46,14 +47,13 @@
   flex-direction: column;
 }
 
+.header__address {
+  margin-left: auto;
+}
+
 .header__logo {
-  position: relative;
   width: 148px;
   height: 105px;
-  left: auto;
-  right: auto;
-  top: auto;
-  botoom: auto;
   padding: 1px 9px 1px 9px;
   z-index: 1;
 }

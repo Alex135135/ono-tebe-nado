@@ -11,9 +11,13 @@
 
 .header__menu {
   display: flex;
-  max-width: 388px;
+  max-width: 33%;
   color: black;
   margin-right: auto;
+  justify-content: start;
+  align-items: center;
+  flex-direction: row;
+  white-space: nowrap;
 }
 
 .header__links-list-item {
@@ -39,24 +43,28 @@
   z-index: 2;
   display: flex;
   font-style: normal;
-  max-width: 242px;
+  max-width: 33%;
   font-size: 18px;
   line-height: 135%;
-  align-items: start;
-  justify-content: center;
+  align-items: center;
+  justify-content: end;
   flex-direction: column;
+  text-align: left;
 }
 
 .header__address {
   margin-left: auto;
+  align-items: end;
 }
 
 .header__logo {
-  width: 148px;
+  width: 33%;
   height: 105px;
   matgin: 0 100px 0 0;
   padding: 1px 9px 1px 9px;
   z-index: 1;
+  justify-content: center;
+  align-items: center;
 }
 
 .header__logo img {

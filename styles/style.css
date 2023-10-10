@@ -1,5 +1,5 @@
 .header {
-  margin: 96px 49px 100px 51px;
+  margin: 92px 49px 96px 51px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -47,6 +47,7 @@
 }
 
 .header__logo {
+  position: static;
   width: 148px;
   height: 105px;
   left: auto;

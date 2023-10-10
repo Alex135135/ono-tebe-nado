@@ -5,7 +5,6 @@
   align-items: center;
   font-size: 18px;
   font-weight: 400;
-  position: relative;
   max-width: 1340px;
 }
 
@@ -28,7 +27,6 @@
   display: flex;
   justify-content: space-between;
   gap: 32px;
-  position: relative;
   z-index: 2;
 }
 
@@ -37,7 +35,6 @@
 }
 
 .address {
-  position: relative;
   z-index: 2;
   display: flex;
   font-style: normal;

@@ -37,23 +37,20 @@
 .header__address {
   flex: 0 1 40%;
   align-items: end;
-  justify-content: center;
-  flex-direction: column;
 }
 
-.header__address p, .header__address a {
-  width: 242px;
-}
 
 .address {
   display: flex;
   font-style: normal;
   font-size: 18px;
   line-height: 135%;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .address p, .address a {
-  max-width: 242px;
+  width: 242px;
 }
 
 .header__logo {
@@ -333,8 +330,6 @@ button {
 
 .footer__address {
   align-items: start;
-  justify-content: center;
-  flex-direction: column;
 }
 
 .footer__menu {

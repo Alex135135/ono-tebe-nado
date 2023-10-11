@@ -50,7 +50,7 @@
 }
 
 .address p, .address a {
-  width: 242px;
+  max-width: 242px;
 }
 
 .header__logo {

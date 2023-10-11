@@ -42,7 +42,7 @@
 }
 
 .header__address p, .header__address a {
-  width: 240px;
+  width: 242px;
 }
 
 .address {
@@ -53,7 +53,7 @@
 }
 
 .address p, .address a {
-  max-width: 240px;
+  max-width: 242px;
 }
 
 .header__logo {
